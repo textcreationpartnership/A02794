@@ -35,9 +35,13 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Strange and wonderfull things. Happened to Richard Hasleton, borne at Braintree in Essex, in his ten
+
+1. AA
+
 #####Body#####
-Strange and wonderfull things. Happened to Richard Hasleton, borne at Braintree in Essex, in his ten
+
+1. The miserable captiuitie of Richard Hasleton, borne at Brainetree in Essex.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
